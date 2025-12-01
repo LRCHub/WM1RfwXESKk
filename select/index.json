@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ギンビス",
+  "base_artist": "環ROY、鎮座DOPENESS、U-zhaan",
+  "createdAt": "2025-12-01T02:25:40.698985Z",
+  "candidates": [
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "ギンビス",
+      "artist": "環ROY、鎮座DOPENESS、U-zhaan",
+      "has_synced": false,
+      "path": "select/pl_ギンビス_環ROY、鎮座DOPENESS、U-zhaan.txt"
+    }
+  ]
+}
